@@ -1,0 +1,36 @@
+[
+  {
+    "id": 2,
+    "name": "KÃ¼rbiscremsuppe",
+    "quantity": 4,
+    "working_time_min": 30,
+    "cooking_time_min": 5,
+    "repose_time_min": 0,
+    "date": "2018-06-03",
+    "image": "http://localhost:8000/media/recipe_image/kuerbiscremsuppe.jpg",
+    "severity": {
+      "id": 1,
+      "name": "Einfach",
+      "comment": ""
+    },
+    "user": 2,
+    "average": 5.0
+  },
+  {
+    "id": 3,
+    "name": "Sizilianische Tomatensauce",
+    "quantity": 4,
+    "working_time_min": 20,
+    "cooking_time_min": 180,
+    "repose_time_min": 0,
+    "date": "2018-06-03",
+    "image": "http://localhost:8000/media/recipe_image/TomatenGnocchiAuflauf.jpg",
+    "severity": {
+      "id": 2,
+      "name": "Mittel",
+      "comment": ""
+    },
+    "user": 2,
+    "average": 0
+  }
+]

@@ -1,0 +1,28 @@
+GET http://localhost:8000/api/recipe/
+Accept: */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6ImtvY2hfMiIsImV4cCI6MTUyODg5ODM2NSwiZW1haWwiOiJrb2NoLnp3ZWlAbWFpbC5jb20iLCJvcmlnX2lhdCI6MTUyODg5NDc2NX0.4WLT4_9m-Dc75HveCs4g-MNY-XIkPwUNrSxK_IEW9y8
+Cache-Control: no-cache
+
+<> 2018-06-13T030007.200.json
+
+###
+
+GET http://localhost:8080/api/recipe
+Accept: */*
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6ImtvY2hfMiIsImV4cCI6MTUyODg5ODM2NSwiZW1haWwiOiJrb2NoLnp3ZWlAbWFpbC5jb20iLCJvcmlnX2lhdCI6MTUyODg5NDc2NX0.4WLT4_9m-Dc75HveCs4g-MNY-XIkPwUNrSxK_IEW9y8
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/api-token-obtain/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/api-token-obtain
+Accept: */*
+Cache-Control: no-cache
+
+###
+
